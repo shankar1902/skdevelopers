@@ -12,7 +12,7 @@ export const Header = () => {
         </h5>
         <h1>Shankar</h1>
          <h5 className="text-light">
-           FrontEnd Developer
+          Software Engineer
            </h5>
            <Cta />
            <Social />
